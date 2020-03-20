@@ -84,8 +84,7 @@ int main() {
 			head = head->ai_next;
 		}
 
-	}
-	else {
+	}else {
 		printf("khong co dia chi ip phu hop");
 	}
 
