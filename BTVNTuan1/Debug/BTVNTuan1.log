@@ -1,0 +1,8 @@
+﻿  BTVNTuan1.cpp
+C:\Users\NGUYEN TRONG HUAN\source\repos\BTVNTuan1\BTVNTuan1\BTVNTuan1.cpp(54,6): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\NGUYEN TRONG HUAN\source\repos\BTVNTuan1\BTVNTuan1\BTVNTuan1.cpp(54,6): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\NGUYEN TRONG HUAN\source\repos\BTVNTuan1\BTVNTuan1\BTVNTuan1.cpp(66,10): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\NGUYEN TRONG HUAN\source\repos\BTVNTuan1\BTVNTuan1\BTVNTuan1.cpp(66,10): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1252)
+C:\Users\NGUYEN TRONG HUAN\source\repos\BTVNTuan1\BTVNTuan1\BTVNTuan1.cpp(66,10): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+C:\Users\NGUYEN TRONG HUAN\source\repos\BTVNTuan1\BTVNTuan1\BTVNTuan1.cpp(66,10): warning C4566: character represented by universal-character-name '\u1EC1' cannot be represented in the current code page (1252)
+  BTVNTuan1.vcxproj -> C:\Users\NGUYEN TRONG HUAN\source\repos\BTVNTuan1\Debug\BTVNTuan1.exe
